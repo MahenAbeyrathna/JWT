@@ -1,0 +1,11 @@
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.0\JWTAuthentication.deps.json
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.0\JWTAuthentication.runtimeconfig.json
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.0\JWTAuthentication.runtimeconfig.dev.json
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.0\JWTAuthentication.dll
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.csprojAssemblyReference.cache
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.csproj.CoreCompileInputs.cache
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.AssemblyInfoInputs.cache
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.AssemblyInfo.cs
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.0\JWTAuthentication.pdb
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.dll
+C:\mahens\TIQRI\Amex\HPS-PowerCard\CRM-API\poc\JWT_netcore\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.0\JWTAuthentication.pdb
